@@ -7,7 +7,7 @@ Installation
 Ezsend can be installed using pip To install open your terminal/command
 prompt and enter:
 
-.. code:: terminal
+.. code::
 
     $ pip install ezsend
 
